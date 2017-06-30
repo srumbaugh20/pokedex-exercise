@@ -4,12 +4,15 @@ Welcome to the React Pokedex, a fun way to learn React!
 ## Installation instructions
 
 First clone this repository:
+
 `git clone https://github.com/traviskn/pokedex-exercise`
 
 Next install the dependencies (I assume that you already have Node.js and NPM installed):
+
 `cd pokeapi && npm install`
 
 Finally, start the development server:
+
 `npm start`
 
 Now if you visit [locahost:3000](localhost:3000) you should see a simple pokedex screen with a Pikachu,
