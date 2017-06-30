@@ -4,7 +4,7 @@ Welcome to the React Pokedex, a fun way to learn React!
 ## Installation instructions
 
 First clone this repository:
-`git clone <url>`
+`git clone https://github.com/traviskn/pokedex-exercise`
 
 Next install the dependencies (I assume that you already have Node.js and NPM installed):
 `cd pokeapi && npm install`
