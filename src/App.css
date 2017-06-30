@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: crimson;
+  height: 100px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.card {
+  max-width: 100px;
+  padding: 15px;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
