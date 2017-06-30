@@ -43,8 +43,8 @@ to see how to complete this step.
 one reason only; to catch 'em all! Add something like a checkbox to each Pokemon
 so that you can mark which ones you've caught.  Maybe keep track of the total number
 of captured Pokemon and show that somewhere too?  You should be able to save a 'captured' true/false flag
-to the API for each Pokemon when you check it. According to the json-server docs,
-"If you make POST, PUT, PATCH or DELETE requests, changes will be automatically and safely saved".
+to the API for each Pokemon when you check it. According to the json-server docs:
+> "If you make POST, PUT, PATCH or DELETE requests, changes will be automatically and safely saved".
 
 ## Acknowledgements
 This project is powered by [Create React App](https://github.com/facebookincubator/create-react-app) and [json-server](https://github.com/typicode/json-server).
