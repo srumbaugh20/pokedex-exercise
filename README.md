@@ -15,8 +15,8 @@ Finally, start the development server:
 
 `npm start`
 
-Now if you visit [locahost:3000](localhost:3000) you should see a simple pokedex screen with a Pikachu,
-and if you visit [localhost:3004/pokemon](localhost:3004/pokemon) you should see some raw json pokemon data.  You are ready to start!
+Now if you visit [locahost:3000](http://localhost:3000) you should see a simple pokedex screen with a Pikachu,
+and if you visit [localhost:3004/pokemon](http://localhost:3004/pokemon) you should see some raw json pokemon data.  You are ready to start!
 
 
 ## Exercise
@@ -24,7 +24,7 @@ and if you visit [localhost:3004/pokemon](localhost:3004/pokemon) you should see
 I've got some exercises for you to do, good luck!
 
 1. Look at that poor Pikachu, he's all alone!  Let's fetch some of his friends!
-Remove the hard-coded Pikachu card and make a data request to the API endpoint [localhost:3004/pokemon](localhost:3004/pokemon) to load and display pokemon cards dynamically.
+Remove the hard-coded Pikachu card and make a data request to the API endpoint [localhost:3004/pokemon](http://localhost:3004/pokemon) to load and display pokemon cards dynamically.
 
 2. Loading all 150 Pokemon all at once is terribly inefficient.  What will happen
 when we add the next 800 or so Pokemon to our database?!?  Instead use pagination
