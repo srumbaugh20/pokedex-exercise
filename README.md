@@ -9,7 +9,7 @@ First clone this repository:
 
 Next install the dependencies (I assume that you already have Node.js and NPM installed):
 
-`cd pokeapi && npm install`
+`cd pokedex-exercise && npm install`
 
 Finally, start the development server:
 
