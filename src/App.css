@@ -24,4 +24,13 @@
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
   box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  float: left;
+  margin-left: 10px;
+}
+
+.cardBox{
+  width:auto;
+  display: inline-block;
+  justify-content: space-between;
+
 }
